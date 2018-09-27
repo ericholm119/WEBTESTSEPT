@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+<order>
+<domain>5</domain>
+<webOrderNo>immskprodtest3</webOrderNo>
+<orderType>WEB</orderType>
+<orderDate>2018-09-27</orderDate>
+<currencyCode>USD</currencyCode>
+<firstName>Christoffer</firstName>
+<lastName>Lindgren</lastName>
+<payment>
+<paymentMethod>ADN</paymentMethod>
+<paymentMethodDescription>adyen_cc</paymentMethodDescription>
+<transactionNo>12345678913</transactionNo>
+</payment>
+<shipping>
+<location>EU_ECOM</location>
+<shippingDescription>DHL Economy</shippingDescription>
+<shippingMethod>ddp</shippingMethod>
+<carriercode>DHL_SK</carriercode>
+<carrierservice>ECON</carrierservice>
+<shippingPrice>0</shippingPrice>
+</shipping>
+<shiptoAddress>
+<address>
+<phone>+27123456789</phone>
+<email>christoffer.lindgren@zoundindustries.com</email>
+<name>christoffer lindgren</name>
+<zip>1685</zip>
+<address1>179 15th Road Randjespark</address1>
+<state/>
+<country>ZA</country>
+<city>Midrand</city>
+</address>
+</shiptoAddress>
+<lines>
+<line>
+<productNo>04091189</productNo>
+<itemNo>04091189_NOSIZE</itemNo>
+<unitPriceInclVat>299.0000</unitPriceInclVat>
+<unitPriceExVat>299.0000</unitPriceExVat>
+<unitVatPercent>0.0000</unitVatPercent>
+<lineAmount>299.0</lineAmount>
+<lineAmountExVat>299.0</lineAmountExVat>
+<quantity>1.0000</quantity>
+<itemDescription>Kilburn Black</itemDescription>
+</line>
+</lines>
+<grandTotal>299.000</grandTotal>
+<grandTotalExVat>299.000</grandTotalExVat>
+</order>
+</nav>

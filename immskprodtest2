@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+<order>
+<domain>5</domain>
+<webOrderNo>immskprodtest2</webOrderNo>
+<orderType>WEB</orderType>
+<orderDate>2018-09-27</orderDate>
+<currencyCode>EUR</currencyCode>
+<firstName>Christoffer</firstName>
+<lastName>Lindgren</lastName>
+<payment>
+<paymentMethod>ADN</paymentMethod>
+<paymentMethodDescription>adyen_cc</paymentMethodDescription>
+<transactionNo>12345678912</transactionNo>
+</payment>
+<shipping>
+<location>EU_ECOM</location>
+<shippingDescription>DHL EXPRESS</shippingDescription>
+<shippingMethod>ddp</shippingMethod>
+<carriercode>DHL_SK</carriercode>
+<carrierservice>EXPWW</carrierservice>
+<shippingPrice>0</shippingPrice>
+</shipping>
+<shiptoAddress>
+<address>
+<phone>+3512345678</phone>
+<email>christoffer.lindgren@zoundindustries.com</email>
+<name>christoffer lindgren</name>
+<zip>101</zip>
+<address1>Hverfisgata 103</address1>
+<state/>
+<country>IS</country>
+<city>Reykjavik</city>
+</address>
+</shiptoAddress>
+<lines>
+<line>
+<productNo>04090985</productNo>
+<itemNo>04090985_NOSIZE</itemNo>
+<unitPriceInclVat>59.0000</unitPriceInclVat>
+<unitPriceExVat>49.1666</unitPriceExVat>
+<unitVatPercent>20.0000</unitVatPercent>
+<lineAmount>118.0</lineAmount>
+<lineAmountExVat>98.3333</lineAmountExVat>
+<quantity>2.0000</quantity>
+<itemDescription>Major II Black</itemDescription>
+</line>
+</lines>
+<grandTotal>118.000</grandTotal>
+<grandTotalExVat>98.333</grandTotalExVat>
+</order>
+</nav>
